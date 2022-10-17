@@ -1,0 +1,5 @@
+fun main(args: Array<String>){
+    print("Hello World! ")//Imprime texto
+    println("Hello World!")//Imprime texto e quebra a linha
+	print("My first Kotlin code")
+}
